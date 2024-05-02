@@ -1,4 +1,4 @@
-<h1>Linux Lab - Manage Authorization</h1>
+<h1>Linux Lab: Manage Authorization</h1>
 
 
 
